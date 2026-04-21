@@ -1,0 +1,6 @@
+{
+  "name": "Rhythm Viper",
+  "description": "A neon arcade experience combining high-score snake gameplay with a rhythmic music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
